@@ -12,28 +12,23 @@ img {
   font-weight: 900;
 }
 
+
+body {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 32px;
+}
+
 .forplants {
-  display: inline-flexbox;
-  align-items: center;
+  display: flex;
   justify-content: center;
+  gap: 52px;
 }
 
-.barberry {
-  display: inline-flexbox;
-  text-align: center;
-}
-
-.chilli {
-  display: inline-flexbox;
-  text-align: center;
-}
-
-.pepper {
-  display: inline-flexbox;
-}
-
-.saffron {
-  display: inline-flexbox;
+.barberry, .chilli, .pepper, .saffron {
+  max-width: 200px;
 }
 
 
