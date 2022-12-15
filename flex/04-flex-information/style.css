@@ -13,7 +13,7 @@ img {
 }
 
 .barberry, .chilli, .pepper, .saffron {
-  display: inline-flex;
+  display: inline-flexbox;
   flex-wrap: nowrap;
   text-align: center;
 }
