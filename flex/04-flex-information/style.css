@@ -15,7 +15,6 @@ img {
 .barberry, .chilli, .pepper, .saffron {
   display: inline-flexbox;
   flex-wrap: nowrap;
-  text-align: start;
 }
 
 
