@@ -12,9 +12,20 @@ img {
   font-weight: 900;
 }
 
-.barberry, .chilli, .pepper, .saffron {
+.barberry {
   display: inline-flexbox;
-  flex-wrap: nowrap;
+}
+
+.chilli {
+  display: inline-flexbox;
+}
+
+.pepper {
+  display: inline-flexbox;
+}
+
+.saffron {
+  display: inline-flexbox;
 }
 
 
