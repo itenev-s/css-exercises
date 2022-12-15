@@ -14,10 +14,12 @@ img {
 
 .barberry {
   display: inline-flexbox;
+  text-align: center;
 }
 
 .chilli {
   display: inline-flexbox;
+  text-align: center;
 }
 
 .pepper {
