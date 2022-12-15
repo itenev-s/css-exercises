@@ -11,9 +11,17 @@ img {
   font-size: 36px;
   font-weight: 900;
 }
+img {
+  float: left;
+}
+
+p {
+  clear: left;
+}
 .barberry, .chilli, .pepper, .saffron {
   display: inline-flex;
   flex-wrap: nowrap;
+
 }
 .barberry, .chilli, .pepper, .saffron >div {
   align-items: center;
