@@ -12,6 +12,12 @@ img {
   font-weight: 900;
 }
 
+.forplants {
+  display: inline-flexbox;
+  align-items: center;
+  justify-content: center;
+}
+
 .barberry {
   display: inline-flexbox;
   text-align: center;
