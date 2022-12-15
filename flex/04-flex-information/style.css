@@ -11,6 +11,17 @@ img {
   font-size: 36px;
   font-weight: 900;
 }
+.barberry, .chilli, .pepper, .saffron {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+
+
+
+
+
+
 
 /* do not edit this footer */
 .footer {
