@@ -20,4 +20,5 @@ button {
 
 button:hover {
   padding: 24px 32px;
+  font-size: 24px;
 }
