@@ -53,3 +53,8 @@ ul {
   text-align: center;
   gap: 8px;
 }
+
+ul {
+  display: flex;
+  gap: 8px;
+}
