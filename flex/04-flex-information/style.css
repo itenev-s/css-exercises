@@ -21,14 +21,28 @@ p {
 .barberry, .chilli, .pepper, .saffron {
   display: inline-flex;
   flex-wrap: nowrap;
+}
 
-}
-.barberry, .chilli, .pepper, .saffron >div {
+.barberry {
   align-items: center;
-}
-.barberry, .chilli, .pepper, .saffron {
   justify-content: center;
 }
+
+.chilli {
+  align-items: center;
+  justify-content: center;
+}
+
+.pepper {
+  align-items: center;
+  justify-content: center;
+}
+
+.saffron {
+  align-items: center;
+  justify-content: center;
+}
+
 
 
 
