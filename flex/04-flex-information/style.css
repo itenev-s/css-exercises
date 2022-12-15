@@ -21,7 +21,9 @@ p {
 .barberry, .chilli, .pepper, .saffron {
   display: inline-flex;
   flex-wrap: nowrap;
+  text-align: center;
 }
+
 
 .barberry {
   align-items: center;
@@ -42,8 +44,6 @@ p {
   align-items: center;
   justify-content: center;
 }
-
-
 
 .barberry, .chilli, .pepper, .saffron {
   display: inline-flex;
