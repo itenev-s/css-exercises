@@ -49,7 +49,7 @@ ul {
 
 .header {
   display: flex;
-  justify-items: center;
+  justify-content: space-between;
   padding: 8px;
 }
 
