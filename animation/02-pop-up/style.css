@@ -70,7 +70,6 @@ button {
   transform: translate(-50%, -50%);
 }
 
-.popup-modal {
-  transition: transform .3s ease-out;
-  transform: scale(1.5)
+button:hover {
+  transform: scale3d(1.5);
 }
