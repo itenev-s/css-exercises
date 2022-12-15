@@ -45,6 +45,11 @@ p {
 
 
 
+.barberry, .chilli, .pepper, .saffron {
+  display: inline-flex;
+  flex-wrap: nowrap;
+  margin: 0 auto;
+}
 
 
 
