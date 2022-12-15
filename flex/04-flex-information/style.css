@@ -12,7 +12,7 @@ img {
   font-weight: 900;
 }
 .barberry, .chilli, .pepper, .saffron {
-  display: flex;
+  display: inline-flex;
   flex-wrap: nowrap;
 }
 .barberry, .chilli, .pepper, .saffron >div {
