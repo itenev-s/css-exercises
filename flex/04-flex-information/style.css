@@ -15,7 +15,12 @@ img {
   display: flex;
   flex-wrap: nowrap;
 }
-
+.barberry, .chilli, .pepper, .saffron >div {
+  align-items: center;
+}
+.barberry, .chilli, .pepper, .saffron {
+  justify-content: center;
+}
 
 
 
