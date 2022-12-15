@@ -11,38 +11,13 @@ img {
   font-size: 36px;
   font-weight: 900;
 }
-img {
-  float: left;
-}
 
-p {
-  clear: left;
-}
 .barberry, .chilli, .pepper, .saffron {
   display: inline-flex;
   flex-wrap: nowrap;
   text-align: center;
 }
 
-.barberry {
-  align-items: center;
-  justify-content: center;
-}
-
-.chilli {
-  align-items: center;
-  justify-content: center;
-}
-
-.pepper {
-  align-items: center;
-  justify-content: center;
-}
-
-.saffron {
-  align-items: center;
-  justify-content: center;
-}
 
 
 
